@@ -7,7 +7,7 @@ myWebView.loadUrl("https://microsoft.github.io/BotFramework-WebChat/01.getting-s
 ```
 
 This should be used for tests.
-This is not recommendded to use in production.
+This is not recommended to use in production.
 
 ## Env
 OS : Android 11 API 30
