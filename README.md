@@ -17,5 +17,5 @@ IDE : Android Studio
 ![image](https://user-images.githubusercontent.com/20683785/196744157-7e5100cf-2aa4-424d-a4e0-15b6b5d63385.png)
 
 ## Reference
-Web Chat : 
+Web Chat for Microsoft Azure Bot Service & Bot Framework : 
 https://github.com/microsoft/BotFramework-WebChat/tree/master
